@@ -1,6 +1,6 @@
 {
-  "F_Version" : 2.1,
-  "F_Url" :"https://devsuprnd.github.io/demosma/firmware_1.0.bin",
+  "F_Version" : 2.2,
+  "F_Url" :"https://devsuprnd.github.io/demosma/firmware_2.2.bin",
   "S_Version" : 1.0,
   "S_Url" :"https://devsuprnd.github.io/demosma/spiffs_1.0.bin"
 }
